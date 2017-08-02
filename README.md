@@ -1,11 +1,12 @@
 # System
 Shell scripts to check system health and info
 
-# speedtest
-Tests download/upload speed
+# &ensp;|___speedtest
+&ensp;&ensp;Tests download/upload speed
 
-# specs
-Prints hardware information
+# &ensp;|___specs
+&ensp;&ensp;Prints hardware information
 
-# health
-Checks system temperature and memory usage
+# &ensp;|___health
+&ensp;&ensp;system temperature
+&ensp;&ensp;memory usage
